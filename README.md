@@ -1,7 +1,7 @@
 # DESAFIO POWERBI #
 ## Criação de visuais ##
 
-Neste desafio foram criadas duas páginas de relatórios utilizando diferentes tipos de visuais. Os dados utilizados vierarm de uma planilha no formato Excel fornecida junto com o desafio chamada Financial Sample.xlsx.
+Neste desafio foram criadas duas páginas de relatórios utilizando diferentes tipos de visuais. Os dados utilizados vieram de uma planilha no formato Excel fornecida junto com o desafio chamada Financial Sample.xlsx.
 
 Recursos utilizados:
 - Navegação entre relatórios
